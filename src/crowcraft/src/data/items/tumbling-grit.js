@@ -17,7 +17,7 @@ export class TumblingGrit extends Item {
             [Professions.Stonemason],
             [Rarities.Common],
             [
-                new CraftingMaterial(2, new WaterFlask()),
+                new CraftingMaterial(3, new WaterFlask()),
 				new CraftingMaterial(8, new Stone()),
 				new CraftingMaterial(1, new CuttingGrit()),
             ],
